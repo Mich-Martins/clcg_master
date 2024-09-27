@@ -562,7 +562,6 @@ form,
   margin-bottom: 3.2rem;
 }
 
-
 /* ===================================================================
  * # preloader
  *
@@ -659,6 +658,12 @@ form,
     top: 0;
   }
 
+}
+
+/* Bishop's img */
+.message-author {
+  border-radius: 50px;
+  border: 3px solid grey;
 }
 
 /* dots fade */
